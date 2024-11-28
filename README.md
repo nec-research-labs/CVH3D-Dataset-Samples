@@ -5,6 +5,10 @@ Sample triplets of Ground Image, Aerial Image and 3D Point Cloud from CVH3D data
 | Ground View Image | Aerial View Image | 3D Point Cloud |
 |:--:|:--:|:--:|
 |<img src="/CVH3D/111050484379850/111050484379850.jpg" alt="drawing" height="200"/> |<img src="/CVH3D/111050484379850/111050484379850_sat.jpg" alt="drawing" width="200"/> |<img src="/CVH3D/111050484379850/111050484379850_3D.png" alt="drawing" height="200"/>|
+|<img src="/CVH3D/111140337709579/111140337709579.jpg" alt="drawing" height="200"/> |<img src="/CVH3D/111140337709579/111140337709579_sat.jpg" alt="drawing" width="200"/> |<img src="/CVH3D/111140337709579/111140337709579_3D.png" alt="drawing" height="200"/>|
+|<img src="/CVH3D/123411749771731/123411749771731.jpg" alt="drawing" height="200"/> |<img src="/CVH3D/123411749771731/123411749771731_sat.jpg" alt="drawing" width="200"/> |<img src="/CVH3D/123411749771731/123411749771731_3D.png" alt="drawing" height="200"/>|
+|<img src="/CVH3D/137963591694074/137963591694074.jpg" alt="drawing" height="200"/> |<img src="/CVH3D/137963591694074/137963591694074_sat.jpg" alt="drawing" width="200"/> |<img src="/CVH3D/137963591694074/137963591694074_3D.png" alt="drawing" height="200"/>|
+
 
 
 This repository contains samples from our dataset CVH3D containing Ground-view, Aerial-view and 3D Point Cloud<br>
@@ -44,4 +48,4 @@ pcd = o3d.io.read_point_cloud(pcd_path)  # replace 'pcd_path' with path to the p
 o3d.visualization.draw_geometries([pcd])
 ```
 
-NOTE: Aerial images were cropped in 200m x 200m squares and 3D Point Cloud samples were cropped in 100m x 100m cubes. Details are mentioned in the paper.
+NOTE: Aerial images were cropped in 200m x 200m (Wider Coverage) squares and 3D Point Cloud samples were cropped in 100m x 100m (Detailed Coverage) cubes. 
