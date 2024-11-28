@@ -1,5 +1,6 @@
-# CVH3D-Dataset-Samples
-Sample triplets of Ground Image, Aerial Image and 3D Point Cloud from CVH3D dataset
+# CVH3D: Cross-View Helsinki 3D Data-Set
+
+This repository provides triplets of Ground Image, Aerial Image and 3D Point Cloud from the CVH3D dataset
 
 
 | Ground View Image | Aerial View Image | 3D Point Cloud |
