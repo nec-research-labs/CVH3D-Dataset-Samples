@@ -7,17 +7,18 @@ This zip file contains samples from our dataset containing Ground-view, Aerial-v
 	- 3D Mesh samples were downloaded from Helsinki City Municipality website.
 	- All the above data has been released to public. The data samples shared are licensed under their respective publishers.
 
-Ground Image Source
--Mapillary: https://www.mapillary.com
+Ground Image Source:
+Mapillary: https://www.mapillary.com
 (licensed under CC-BY-SA)
  
-Aerial Image Source
--National Land Survey of Finland:
+Aerial Image Source:
+National Land Survey of Finland
 https://www.maanmittauslaitos.fi/en/maps-and-spatial-data/datasets-and-interfaces/product-descriptions/orthophotos
 (licensed under CC-BY-4.0)
  
 3d Data Source:
--Helsinki City Municipality: https://www.hel.fi/en/decision-making/information-on-helsinki/maps-and-geospatial-data/helsinki-3d
+Helsinki City Municipality
+https://www.hel.fi/en/decision-making/information-on-helsinki/maps-and-geospatial-data/helsinki-3d
 (licensed under CC-BY-4.0)
 
 
