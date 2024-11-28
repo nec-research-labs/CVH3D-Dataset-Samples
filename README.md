@@ -1,6 +1,11 @@
 # CVH3D-Dataset-Samples
 Sample triplets of Ground Image, Aerial Image and 3D Point Cloud from CVH3D dataset
 
+|:--:|:--:|:--:|
+| Ground View Image | Aerial View Image | 3D Point Cloud |
+|![GitHub Logo](/CVH3D/111050484379850/111050484379850.jpg) |![GitHub Logo](/CVH3D/111050484379850/111050484379850_sat.jpg) |![GitHub Logo](/CVH3D/111050484379850/111050484379850_3D.png)|
+
+
 This repository contains samples from our dataset CVH3D containing Ground-view, Aerial-view and 3D Point Cloud<br>
 - All Ground-view images were downloaded from Mapillary using their API<br>
 - Aerial images were downloaded from the database of National Land Survey of Finland. The resolution of the aerial images is 50 cm.<br>
