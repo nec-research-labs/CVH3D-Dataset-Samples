@@ -29,11 +29,14 @@ https://www.hel.fi/en/decision-making/information-on-helsinki/maps-and-geospatia
 
 
 ## Visualizing 3D Point Cloud:
-	- 3D Point Cloud samples are saved in .pcd format
-	- To visualize the point cloud samples please follow below steps
-	1. Install Open3D library (https://pypi.org/project/open3d/):
-		- pip install open3d
-	2. Use below python code to visualize point cloud:
+- 3D Point Cloud samples are saved in .pcd format
+- To visualize the point cloud samples please follow below steps
+  
+1. Install Open3D library (https://pypi.org/project/open3d/):
+```markdown
+pip install open3d
+ ```
+2. Use below python code to visualize point cloud:
  
 ```markdown
 import open3d as o3d
