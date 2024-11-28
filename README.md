@@ -48,4 +48,4 @@ pcd = o3d.io.read_point_cloud(pcd_path)  # replace 'pcd_path' with path to the p
 o3d.visualization.draw_geometries([pcd])
 ```
 
-NOTE: Aerial images were cropped in 200m x 200m (Wider Coverage) squares and 3D Point Cloud samples were cropped in 100m x 100m (Detailed Coverage) cubes. 
+NOTE: Aerial images were cropped in 200m x 200m (Wider Coverage) squares.<br>3D Point Cloud samples were cropped in 100m x 100m (Detailed Coverage) cubes. 
