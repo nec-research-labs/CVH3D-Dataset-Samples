@@ -2,8 +2,8 @@
 Sample triplets of Ground Image, Aerial Image and 3D Point Cloud from CVH3D dataset
 
 |:--:|:--:|:--:|
-| Ground View Image | Aerial View Image | 3D Point Cloud |<br>
-|<img src="/CVH3D/111050484379850/111050484379850.jpg" alt="drawing" height="200"/> |<img src="/CVH3D/111050484379850/111050484379850_sat.jpg" alt="drawing" width="200"/> |<img src="/CVH3D/111050484379850/111050484379850_3D.png" alt="drawing" height="200"/> |
+ Ground View Image  Aerial View Image  3D Point Cloud <br>
+<img src="/CVH3D/111050484379850/111050484379850.jpg" alt="drawing" height="200"/> <img src="/CVH3D/111050484379850/111050484379850_sat.jpg" alt="drawing" width="200"/> <img src="/CVH3D/111050484379850/111050484379850_3D.png" alt="drawing" height="200"/>
 
 
 This repository contains samples from our dataset CVH3D containing Ground-view, Aerial-view and 3D Point Cloud<br>
