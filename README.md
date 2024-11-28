@@ -13,9 +13,9 @@ Sample triplets of Ground Image, Aerial Image and 3D Point Cloud from CVH3D data
 
 This repository contains samples from our dataset CVH3D containing Ground-view, Aerial-view and 3D Point Cloud<br>
 - All Ground-view images were downloaded from Mapillary using their API<br>
-- Aerial images were downloaded from the database of National Land Survey of Finland. The resolution of the aerial images is 50 cm.<br>
+- Aerial images were downloaded from the database of National Land Survey of Finland.<br> The resolution of the aerial images is 50 cm.<br>
 - 3D Mesh samples were downloaded from Helsinki City Municipality website.<br>
-- All the above data has been released to public. The data samples shared are licensed under their respective publishers.<br>
+- The data above in its unprocessed form is available to the public from the below sources. <br> The data samples shared are licensed under their respective publishers.<br>
 
 Ground Image Source:<br>
 Mapillary: https://www.mapillary.com<br>
