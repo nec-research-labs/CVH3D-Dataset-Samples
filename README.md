@@ -17,7 +17,7 @@ https://www.maanmittauslaitos.fi/en/maps-and-spatial-data/datasets-and-interface
 (licensed under CC-BY-4.0)<br>
  
 3d Data Source:<br>
-Helsinki City Municipality<br>
+Helsinki City Municipality (City of Helsinki)<br>
 https://www.hel.fi/en/decision-making/information-on-helsinki/maps-and-geospatial-data/helsinki-3d<br>
 (licensed under CC-BY-4.0)<br>
 
