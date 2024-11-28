@@ -8,7 +8,7 @@ This repository provides triplets of Ground Image, Aerial Image and 3D Point Clo
 |<img src="/CVH3D/111140337709579/111140337709579.jpg" alt="drawing" height="200"/> |<img src="/CVH3D/111140337709579/111140337709579_sat.jpg" alt="drawing" width="200"/> |<img src="/CVH3D/111140337709579/111140337709579_3D.png" alt="drawing" height="200"/>|
 |<img src="/CVH3D/123411749771731/123411749771731.jpg" alt="drawing" height="200"/> |<img src="/CVH3D/123411749771731/123411749771731_sat.jpg" alt="drawing" width="200"/> |<img src="/CVH3D/123411749771731/123411749771731_3D.png" alt="drawing" height="200"/>|
 |<img src="/CVH3D/137963591694074/137963591694074.jpg" alt="drawing" height="200"/> |<img src="/CVH3D/137963591694074/137963591694074_sat.jpg" alt="drawing" width="200"/> |<img src="/CVH3D/137963591694074/137963591694074_3D.png" alt="drawing" height="200"/>|
-
+|Source: Mapillary|Source: National Land Survey of Finland|Source: Helsinki City Municipality|
 
 
 This repository contains samples from our dataset CVH3D containing Ground-view, Aerial-view and 3D Point Cloud<br>
