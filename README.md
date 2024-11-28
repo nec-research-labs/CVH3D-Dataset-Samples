@@ -29,9 +29,9 @@ https://www.maanmittauslaitos.fi/en/maps-and-spatial-data/datasets-and-interface
 	2. Use below python code to visualize point cloud:
  
 ```markdown
-		$: import open3d as o3d
-		$: pcd = o3d.io.read_point_cloud(pcd_path)  # replace 'pcd_path' with path to the pcd sample
-		$: o3d.visualization.draw_geometries([pcd])
+import open3d as o3d
+pcd = o3d.io.read_point_cloud(pcd_path)  # replace 'pcd_path' with path to the pcd sample
+o3d.visualization.draw_geometries([pcd])
 ```
 
 NOTE: All the Aerial and 3D Point Cloud samples are cropped in 100m x 100m squares (cubes for point cloud)
